@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.sungness.framework</groupId>
+  <artifactId>sungness-web</artifactId>
+  <versioning>
+    <latest>1.1.6-SNAPSHOT</latest>
+    <versions>
+      <version>1.1.6-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20201018021401</lastUpdated>
+  </versioning>
+</metadata>
